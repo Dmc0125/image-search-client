@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "image-search",
+  "builds": [
+    {
+      "src": "*",
+      "use": "@now/static"
+    }
+  ],
+  "alias": [
+    "image-search-app"
+  ]
+}

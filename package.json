@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "description": "Simple app that can be used to search images from public api:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmc0125/image-search-client.git"
+  },
+  "keywords": [],
+  "author": "Dmc0125",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dmc0125/image-search-client/issues"
+  },
+  "homepage": "https://github.com/Dmc0125/image-search-client#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
